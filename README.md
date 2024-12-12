@@ -48,6 +48,3 @@ This project uses the "Known Interface" method to:
 To add new implementations:
 1. Create a new class implementing `SystemInterface`
 2. Existing tests will automatically validate the new implementation
-
-## License
-MIT License
