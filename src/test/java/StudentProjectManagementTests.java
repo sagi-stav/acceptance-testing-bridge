@@ -1,7 +1,5 @@
 import junit.framework.TestCase;
-import org.junit.Test;
 
-import static org.junit.Assert.*;
 public class StudentProjectManagementTests extends TestCase {
     protected ProjectManagementInterface bridge;
     @Override
